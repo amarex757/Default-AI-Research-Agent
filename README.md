@@ -1,7 +1,8 @@
 # Default AI Research Agent
 
 A three-phase AI research agent which takes a company domain as input, researches the account using live web search, evaluates ICP fit for Default, identifies the right buyer persona, and generates a targeted 3-email outbound sequence.
-<img src="/sales-agent.jpg" width="50%">
+
+<img src="/sales-agent.jpg" width="75%">
 ---
 
 ## What It Does
